@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: flask-docker-app
-          image: ramalingareddyvutakanti172/flask-docker-app:ver3
+          image: ramalingareddyvutakanti172/flask-docker-app:ver4
           ports:
             - containerPort: 5000
 
